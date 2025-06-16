@@ -1,0 +1,19 @@
+{
+  "name": "businessbot",
+  "version": "1.0.0",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "RYK",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@discordjs/rest": "^2.4.3",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.119",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7"
+  }
+}
